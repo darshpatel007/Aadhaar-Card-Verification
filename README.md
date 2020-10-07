@@ -6,7 +6,7 @@ By Using Quicko Aadhaar Card API, We Can Easily Verify Aadhaar Card Number.
 
 Download Python File From This Repository.
 
-Go To quicko.com & Create A Free Account.
+Go To https://quicko.com & Create A Free Account.
 
 Login & Go To API Dashboard Get Your API KEY & API SECRET.
 
